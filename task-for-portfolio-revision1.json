@@ -84,6 +84,5 @@
     },
     "registeredAt": "2025-01-22T17:26:26.275Z",
     "registeredBy": "arn:aws:sts::541488453726:assumed-role/voclabs/user2872908=Adefemi",
-    "enableFaultInjection": false,
-    "tags": []
+       "tags": []
 }
